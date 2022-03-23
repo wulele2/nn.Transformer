@@ -2,6 +2,7 @@
 '''
 非常感谢大佬的网站，帮我能够理解pytorch官方自定义nn.Transformer使用方式。
 https://wmathor.com/index.php/archives/1455/
+在贴上大佬的GitHub： https://github.com/wmathor/nlp-tutorial
 '''
 import math
 import torch
